@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "hairdresser-c7068": {
+      "hosting": {
+        "hairsalon": [
+          "hairdresser-c7068"
+        ]
+      }
+    }
+  }
+}
